@@ -20,24 +20,48 @@
             }
           },
           {
-            "id": "b79e0ebb8860cc68",
+            "id": "ec8d5a0b460266dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 标准函数/strlen().md",
+                "file": "00 语言基础/运算符.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
           {
-            "id": "5e60a7c139c93631",
+            "id": "9b55dcf70202deb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "00 语言基础/赋值.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06cc477a6c99330b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 经典例题/进制转换.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc50fbf12c340490",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 语言基础/运算符.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "00 语言基础/运算符.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "00 语言基础/运算符.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "00 语言基础/运算符.md"
               }
             }
           }
@@ -183,20 +207,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5e60a7c139c93631",
+  "active": "dc50fbf12c340490",
   "lastOpenFiles": [
+    "00 语言基础/赋值.md",
+    "03 代码大题/placeholder.md",
+    "02 经典例题/进制转换.md",
     "01 标准函数/strlen().md",
-    "README.md",
     "01 标准函数/strcpy().md",
+    "00 语言基础/运算符.md",
+    "README.md",
+    "99 模板/00 语言基础.md",
     "99 模板/01 函数.md",
     "未命名",
-    "99 模板/00 数据类型.md",
-    "02 经典例题/进制转换.md",
     "99 模板",
     "03 代码大题",
     "02 经典例题",
     "Welcome.md",
-    "00 数据类型",
+    "00 语言基础",
     "01 标准函数"
   ]
 }
