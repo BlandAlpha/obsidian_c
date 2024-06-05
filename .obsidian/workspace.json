@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 重要知识/流程图.md",
+                "file": "02 经典例题/进制转换.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 重要知识/流程图.md",
+                "file": "02 经典例题/进制转换.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 重要知识/流程图.md",
+                "file": "02 经典例题/进制转换.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 重要知识/流程图.md"
+                "file": "02 经典例题/进制转换.md"
               }
             }
           }
@@ -161,23 +161,23 @@
   },
   "active": "ee42166897a76674",
   "lastOpenFiles": [
+    "02 经典例题/判断闰年.md",
+    "02 经典例题/判断三角形.md",
+    "02 经典例题/判断素数（质数）.md",
+    "02 经典例题/进制转换.md",
+    "04 重要知识/流程图.md",
     "98 Assets/FlowGraph_Overall.svg",
     "98 Assets/FlowGraph_Loop.png",
-    "04 重要知识/流程图.md",
     "98 Assets/FlowGraph_Select.png",
-    "02 经典例题/判断闰年.md",
     "98 Assets/FlowGraph_items.png",
     "00 语言基础/循环结构.md",
     "98 Assets/FlowGraph_Order.png",
-    "02 经典例题/进制转换.md",
     "98 Assets",
     "Pasted image 20240605201049.png",
     "99 Templates/04 知识.md",
     "99 Templates/02 例题.md",
     "01 标准函数/strcpy().md",
     "03 代码大题/placeholder.md",
-    "02 经典例题/判断素数.md",
-    "02 经典例题/判断三角形.md",
     "README.md",
     "99 Templates/00 语言基础.md",
     "99 Templates/01 函数.md",
