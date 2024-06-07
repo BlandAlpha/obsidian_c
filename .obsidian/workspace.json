@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "00 语言基础/运算符.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -50,13 +50,13 @@
               "type": "markdown",
               "state": {
                 "file": "00 语言基础/数据类型.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 语言基础/数据类型.md",
+                "file": "00 语言基础/运算符.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 语言基础/数据类型.md",
+                "file": "00 语言基础/运算符.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 语言基础/数据类型.md"
+                "file": "00 语言基础/运算符.md"
               }
             }
           }
@@ -184,12 +184,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f6637a4f0bbc9c00",
+  "active": "2133735510ef561f",
   "lastOpenFiles": [
-    "00 语言基础/运算符.md",
-    "00 语言基础/数据类型.md",
-    "00 语言基础/关键字.md",
     "ASCII码.md",
+    "00 语言基础/数据类型.md",
+    "00 语言基础/运算符.md",
+    "00 语言基础/关键字.md",
     "00 语言基础/补码.md",
     "02 经典例题/判断素数（质数）.md",
     "02 经典例题/华氏度到摄氏度.md",
