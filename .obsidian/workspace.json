@@ -13,21 +13,45 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 语言基础/运算符.md",
+                "file": "00 语言基础/补码.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2133735510ef561f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 语言基础/数据类型.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ee42166897a76674",
+            "id": "5dd3ffbab5532712",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 经典例题/进制转换.md",
+                "file": "ASCII码.md",
                 "mode": "source",
-                "source": true
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6637a4f0bbc9c00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 语言基础/关键字.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -82,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ba08893070d0aeff",
@@ -98,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 经典例题/进制转换.md",
+                "file": "00 语言基础/数据类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 经典例题/进制转换.md",
+                "file": "00 语言基础/数据类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 经典例题/进制转换.md"
+                "file": "00 语言基础/数据类型.md"
               }
             }
           }
@@ -159,18 +184,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ee42166897a76674",
+  "active": "2133735510ef561f",
   "lastOpenFiles": [
-    "02 经典例题/判断闰年.md",
-    "02 经典例题/判断三角形.md",
+    "00 语言基础/补码.md",
+    "00 语言基础/数据类型.md",
+    "ASCII码.md",
+    "00 语言基础/关键字.md",
     "02 经典例题/判断素数（质数）.md",
+    "02 经典例题/华氏度到摄氏度.md",
+    "00 语言基础/运算符.md",
+    "02 经典例题/判断三角形.md",
+    "02 经典例题/判断闰年.md",
     "02 经典例题/进制转换.md",
+    "00 语言基础/循环结构.md",
+    "99 Templates/00 语言基础.md",
     "04 重要知识/流程图.md",
     "98 Assets/FlowGraph_Overall.svg",
     "98 Assets/FlowGraph_Loop.png",
     "98 Assets/FlowGraph_Select.png",
     "98 Assets/FlowGraph_items.png",
-    "00 语言基础/循环结构.md",
     "98 Assets/FlowGraph_Order.png",
     "98 Assets",
     "Pasted image 20240605201049.png",
@@ -179,11 +211,9 @@
     "01 标准函数/strcpy().md",
     "03 代码大题/placeholder.md",
     "README.md",
-    "99 Templates/00 语言基础.md",
     "99 Templates/01 函数.md",
     "01 标准函数/strlen().md",
     "04 重要知识",
-    "00 语言基础/运算符.md",
     "00 语言基础/赋值.md",
     "99 Templates",
     "03 代码大题",
