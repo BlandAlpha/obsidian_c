@@ -348,6 +348,7 @@ bb
 bM
 bq
 bllllllrrra
+bit
 yy
 yg
 yS
@@ -559,6 +560,7 @@ AA
 AJKKW
 Aq
 AO
+ASCII
 WVV
 WUU
 Wg

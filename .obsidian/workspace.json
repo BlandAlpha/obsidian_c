@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 语言基础/数据类型.md",
+                "file": "00 语言基础/运算符.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 语言基础/关键字.md",
+                "file": "00 语言基础/数据类型.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,15 +184,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2133735510ef561f",
+  "active": "f6637a4f0bbc9c00",
   "lastOpenFiles": [
-    "00 语言基础/补码.md",
+    "00 语言基础/运算符.md",
     "00 语言基础/数据类型.md",
-    "ASCII码.md",
     "00 语言基础/关键字.md",
+    "ASCII码.md",
+    "00 语言基础/补码.md",
     "02 经典例题/判断素数（质数）.md",
     "02 经典例题/华氏度到摄氏度.md",
-    "00 语言基础/运算符.md",
     "02 经典例题/判断三角形.md",
     "02 经典例题/判断闰年.md",
     "02 经典例题/进制转换.md",
