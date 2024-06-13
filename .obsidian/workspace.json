@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 语言基础/运算符.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 语言基础/运算符.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 语言基础/运算符.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 语言基础/运算符.md"
+                "file": "README.md"
               }
             }
           }
@@ -185,9 +185,9 @@
   },
   "active": "2133735510ef561f",
   "lastOpenFiles": [
+    "00 语言基础/运算符.md",
     "ASCII码.md",
     "00 语言基础/数据类型.md",
-    "00 语言基础/运算符.md",
     "00 语言基础/关键字.md",
     "00 语言基础/补码.md",
     "02 经典例题/判断素数（质数）.md",
